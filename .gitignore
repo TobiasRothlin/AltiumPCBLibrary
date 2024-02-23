@@ -49,3 +49,23 @@ eagle.epf
 
 # file locks introduced since 7.x
 *.lck
+
+
+PCBLibrary\History
+PCBLibrary\Project Logs for PCBLibrary
+PCBLibrary\Project Outputs for PCBLibrary
+
+*.Zip
+*.LOG
+
+*.drc
+*.html
+*.gbr
+*.Txt
+*.zip
+*.apr
+*.EXTREP
+*.REP
+*.APR_LIB
+
+*.SchDocPreview
